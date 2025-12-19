@@ -1,0 +1,23 @@
+SP_TEST_NORMAL|D:\\ảnh nhà t1\\6be39392426287f6440a7cdd707d26e5.jpg
+SP_TEST_SLOW|D:\ảnh nhà t1\33cae085bbee99d2eccdb23873658465.jpg
+SP005|D:\\ảnh nhà t1\\b27e650f85a29ed4592c93c1d44164c2.jpgSP171933|C:\Users\kinhi\OneDrive\Hình ảnh\Ảnh chụp màn hình\Ảnh chụp màn hình 2025-10-12 140049.png
+SP171943|C:\Users\kinhi\OneDrive\Hình ảnh\Ảnh chụp màn hình\Ảnh chụp màn hình 2025-11-13 010450.png
+SP005|D:\code\ChanggWithOOP\PBL2_QuanLyKho\PBL2_QuanLyKho\Kho_anh\c0c95da3bd60a57eac326568d3ce7591.jpg
+SP005|D:\code\ChanggWithOOP\PBL2_QuanLyKho\PBL2_QuanLyKho\Kho_anh\c0c95da3bd60a57eac326568d3ce7591.jpg
+SP006|D:\code\ChanggWithOOP\PBL2_QuanLyKho\PBL2_QuanLyKho\Kho_anh\cdeef6bce0a6bffdd9ffc99d9eadcea9.jpg
+SP007|D:\code\ChanggWithOOP\PBL2_QuanLyKho\PBL2_QuanLyKho\Kho_anh\eaffa7bb3f9069188a3dabb89e6658fb.jpg
+SP009|D:\code\ChanggWithOOP\PBL2_QuanLyKho\PBL2_QuanLyKho\Kho_anh\39f1d56f14e96b0161463c0ff9c40097.jpg
+SP010|D:\code\ChanggWithOOP\PBL2_QuanLyKho\PBL2_QuanLyKho\Kho_anh\7eda8b564baf458d10622c10d1c6b11c.jpg
+SP011|D:\code\ChanggWithOOP\PBL2_QuanLyKho\PBL2_QuanLyKho\Kho_anh\42a8ebf857f4b31c5137178c2a1e7c19.jpg
+SP012|D:\code\ChanggWithOOP\PBL2_QuanLyKho\PBL2_QuanLyKho\Kho_anh\98efae3d2a7e6aeaf22467e5b376aede.jpg
+SP007|D:\code\ChanggWithOOP\PBL2_QuanLyKho\PBL2_QuanLyKho\Kho_anh\eaffa7bb3f9069188a3dabb89e6658fb.jpg
+SP009|D:\code\ChanggWithOOP\PBL2_QuanLyKho\PBL2_QuanLyKho\Kho_anh\39f1d56f14e96b0161463c0ff9c40097.jpg
+SP010|D:\code\ChanggWithOOP\PBL2_QuanLyKho\PBL2_QuanLyKho\Kho_anh\7eda8b564baf458d10622c10d1c6b11c.jpg
+SP011|D:\code\ChanggWithOOP\PBL2_QuanLyKho\PBL2_QuanLyKho\Kho_anh\42a8ebf857f4b31c5137178c2a1e7c19.jpg
+SP012|D:\code\ChanggWithOOP\PBL2_QuanLyKho\PBL2_QuanLyKho\Kho_anh\98efae3d2a7e6aeaf22467e5b376aede.jpg
+SP002|D:\code\ChanggWithOOP\PBL2_QuanLyKho\PBL2_QuanLyKho\Kho_anh\0b2f9e4d452244b2baa111cd27d44f8a.jpg
+SP_001|D:\code\ChanggWithOOP\PBL2_QuanLyKho\PBL2_QuanLyKho\Kho_anh\0d12b86934ec832c4b5f971e48b1a90c.jpg
+SP001|D:\code\ChanggWithOOP\PBL2_QuanLyKho\PBL2_QuanLyKho\Kho_anh\b624ea0b41b6c9073cbeead4482a0e9e.jpg
+SP003|D:\code\ChanggWithOOP\PBL2_QuanLyKho\PBL2_QuanLyKho\Kho_anh\2731827a707ae45cb8f824abb83f5e21.jpg
+SP004|D:\code\ChanggWithOOP\PBL2_QuanLyKho\PBL2_QuanLyKho\Kho_anh\28c1c101374c52c2a7a2108b6b287ea8.jpg
+SP008|D:\code\ChanggWithOOP\PBL2_QuanLyKho\PBL2_QuanLyKho\Kho_anh\7ff73ec3910eddae5239f32bb9244e17.jpg
